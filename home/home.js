@@ -52,3 +52,8 @@ blue.appendChild(div6)
 div6.classList.add("box")
 console.log(div6);
 
+
+
+
+
+
